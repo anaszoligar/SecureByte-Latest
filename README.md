@@ -30,3 +30,7 @@ For more tools, join our community at [DeepRET Telegram Group](https://t.me/Deep
 ## Disclaimer
 
 This project is provided as is. The original developers do not endorse or support the leaked version. Use it at your own risk.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
